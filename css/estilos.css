@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "NombreDeFuente"; 
+    src: url("../highschool/Highschool.ttf");
+  
+}
+.fondo{
+    background-color: rgb(42, 55, 71);
+    height: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px; /* agregar un margen superior de 20px */
+    font-family: NombreDeFuente;
+    font-size: 27px;
+}
+.lorem{
+    margin-top: 10px;
+}
+.fuente{
+    color: white;
+}
